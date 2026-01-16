@@ -76,4 +76,4 @@ if st.button("predict"):
     if prediction==0:
         st.error("CANCER")
     else:
-        st.succcess("NOT CANCER")
+        st.success("NOT CANCER")
